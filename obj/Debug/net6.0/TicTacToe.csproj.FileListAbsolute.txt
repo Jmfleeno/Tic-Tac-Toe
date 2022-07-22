@@ -1,0 +1,15 @@
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/student/Job_Hunt/The_Advocate/TicTacToe/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll
